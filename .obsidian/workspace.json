@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "29ee633fd87bac8e",
+        "id": "87e2aaaf86161f97",
         "type": "tabs",
         "children": [
           {
-            "id": "abe888ad37ee4c4e",
+            "id": "364d58c012cf0f14",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "config files.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "config files"
             }
           }
         ]
@@ -180,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "abe888ad37ee4c4e",
+  "active": "da8472e3932e2243",
   "lastOpenFiles": [
     "Working Memory.md",
     "Weird But True (WBT).md",
