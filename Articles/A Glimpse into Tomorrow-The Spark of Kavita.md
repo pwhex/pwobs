@@ -1,0 +1,24 @@
+
+The familiar rhythm of a simple rhyme—"**Red touch yellow, kills a fellow; Red touch black, venom lack**"—filled the lively hall of the SLAAS 'S&T 70' exhibition. This little poem, taught to me by a remarkable 12-year-old named Kavita, made it easy to tell the difference between dangerous and harmless snakes. This chance meeting, while I was just walking around the displays, taught me something much bigger than just about reptiles.
+
+In a busy corner, a quiet girl with **oval spectacles** was completely focused on her invention. She called it the "**Vehicle Air Drag Tester**." It looked simple, using a toy car inside a model of a **wind tunnel** made from a **Coca-Cola bottle**. Two batteries powered four small motors inside the bottle to check how well the toy car could handle air pushing on it from all sides. Because she seemed much younger than the other students, I was curious about how she understood wind tunnels and where she got the idea.
+
+As I walked closer, two other girls came over to help set up the demonstration. The three friends introduced themselves, and Kavita, the quiet one, began to explain her design. After her clear and quick presentation, I started asking her questions about her invention. To my surprise, she (and her friends) answered every question perfectly, showing they really understood the concepts. She didn't stop there; she even explained how her model could be used to study how wind affects the **water cycle** and how birds **migrate**.
+
+---
+
+## Discovering Nature's Balance: A Reptile Story
+
+I soon learned that Kavita loved **biology**, especially **reptiles**. On the second day of the exhibition, I saw her again. She looked a bit annoyed and bored, playing with clay and a stick. To cheer her up, I asked her to teach me something about reptiles. Her face lit up immediately. She quickly reached into her bag and pulled out a book about reptiles. Before opening it, she gently ran her hand over the cover, like it was the most important thing in the world.
+
+She started by talking about how people often hurt reptiles because they don't know which ones are venomous. She stressed that reptiles are a very important part of nature. She used the **Rat snake** as an example, explaining how it helps keep the number of rats balanced. Then, with great excitement, she told me about different types of reptiles. I found it all fascinating! She taught me about how they **adapt**, how to tell **venomous from non-venomous snakes**, what their **shapes and colors mean**, how some snakes are shy while others are aggressive, and even about **cross-breeding**. She even mentioned how "king" snakes, like the **King Cobra**, have amazing immune systems. My own knowledge of biology was almost zero, and I truly disliked snakes because I thought they were all dangerous. Her little lesson was a real eye-opener. She somehow made me want to learn more about creatures I once completely hated.
+
+---
+
+## Smart Beyond Her Years: A Flash of Brilliance
+
+Kavita's knowledge wasn't just about biology and reptiles. While I was there, an older university student was looking at her wind tunnel model. He suggested she explain her design using **Bernoulli's principle** from fluid dynamics. Kavita nodded, but she didn't seem to know what Bernoulli's principle was. Hoping to explain it simply, I asked her if she had ever wondered how birds fly and stay steady in the air. She thought for a minute, then looked at me and said, "There has to be a pressure difference along their wings which can cause an upward lift against gravity." I was completely shocked and amazed. She understood Bernoulli's principle in a way that many adults don't, just by thinking about it.
+
+Kavita was a fast learner with amazing intuition. Since she loved nature, I decided to teach her about the **Fibonacci sequence** and the **Golden Ratio**. I showed her how the sequence is formed and how the ratio between numbers in the sequence leads to the Golden Ratio. She already understood algebra, sequences, and quadratic equations very well. As I drew the squares to create the **Golden Spiral**, she watched carefully, then thoughtfully, lifted her glasses, looked at me, and said, "It looks spiral, like a **Nautilus**." Then she drew a Nautilus on a piece of paper to show me how much it looked like a golden spiral. Once again, I was speechless. Most of all, she was just amazed by these new things she learned.
+
+She inspired me. She gave me hope that the future will be bright, not just because of how much she knew about science, but because of her attitude and the way she thought.

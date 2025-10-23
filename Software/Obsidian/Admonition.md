@@ -1,0 +1,1 @@
+https://plugins.javalent.com/admonitions

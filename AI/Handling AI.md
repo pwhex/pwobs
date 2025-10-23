@@ -1,0 +1,2 @@
+It is tricky to communicate with AI
+Reason why prompt engineering is important- we try to get the maximum efficiency from AI. AI processed language in a different way. We process it in a different way. Although AI designers are trying to reduce this gap, we can also make sure that we act in a way that this distance is reduced.

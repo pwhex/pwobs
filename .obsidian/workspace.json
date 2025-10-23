@@ -11,14 +11,10 @@
             "id": "abe888ad37ee4c4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
         ]
@@ -180,15 +176,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "abe888ad37ee4c4e",
+  "active": "da8472e3932e2243",
   "lastOpenFiles": [
-    "New note from Obs.md",
-    "Untitled/Untitled.md",
-    "Untitled",
-    "Last Note.md",
-    "From git.md",
-    "First Note.md",
-    "Another note.md",
-    "Test.md"
+    "Working Memory.md",
+    "Weird But True (WBT).md",
+    "Uncooked.md",
+    "Text manipulation.md",
+    "text_8.txt",
+    "text_7.txt",
+    "text_6.txt",
+    "text_5.txt",
+    "text_4.txt",
+    "React+GitHub.md",
+    "Neighbor complain.md",
+    "Daily Log.md",
+    "config files.md",
+    "00 Navigator.md",
+    "Software/VSCode/assets/Pasted image 20240907185932.png",
+    "Software/GIT/assets/Pasted image 20240927220351.png",
+    "Software/Windows/Command to turn off the monitor.md",
+    "Software/Vim/config file.md",
+    "Software/Vim/assets",
+    "Software/Vim/Learning",
+    "Software/Vim/LazyVim.md",
+    "Software/VSCode/assets",
+    "Software/VSCode/VSCode Tasks.md",
+    "Software/VSCode/Theme Profiles.md",
+    "Software/VSCode/Snippets.md",
+    "Software/VSCode/My Extensions.md",
+    "Software/VSCode/Keyboard Shortcuts.md",
+    "Software/VSCode/Creating Custom Extensions.md",
+    "Software/SQL/Why JSONB.md",
+    "Software/SQL/SQL gists.md",
+    "Software/SQL/SQL Normalization.md",
+    "Software/SQL/Learning.md",
+    "Software/SQL/ERD.md",
+    "Software/SQL/Compound Primary Key.md",
+    "Software/R/Resources.md",
+    "Software/R/R Basics.md",
+    "Software/Powershell/assets",
+    "Software/GIT/assets",
+    "+/SS from Dasun.png"
   ]
 }
