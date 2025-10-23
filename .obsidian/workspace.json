@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Another note.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Another note"
+              "title": "Untitled"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "abe888ad37ee4c4e",
   "lastOpenFiles": [
-    "Test.md",
     "Another note.md",
+    "Untitled.md",
+    "Test.md",
     "New note from Obs.md",
     "From git.md",
     "First Note.md"
