@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New note from Obs.md",
+                "file": "Untitled/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New note from Obs"
+              "title": "Untitled"
             }
           }
         ]
@@ -180,14 +180,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e28e362a827c56e0",
+  "active": "abe888ad37ee4c4e",
   "lastOpenFiles": [
+    "New note from Obs.md",
+    "Untitled/Untitled.md",
     "Untitled",
     "Last Note.md",
     "From git.md",
     "First Note.md",
     "Another note.md",
-    "Test.md",
-    "New note from Obs.md"
+    "Test.md"
   ]
 }
